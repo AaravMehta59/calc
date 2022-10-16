@@ -1,3 +1,5 @@
+// Copyright (c) 2022 Aarav Mehta and PixelCodez Co. (Previously AMehtaCodes)
+
 class Calculator {
     constructor(previousOperandTextElement, currentOperandTextElement) {
       this.previousOperandTextElement = previousOperandTextElement
