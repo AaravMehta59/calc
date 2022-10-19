@@ -1,9 +1,4 @@
 // Copyright (c) 2022 Aarav Mehta and PixelCodez Co. (Previously AMehtaCodes)
-
-window.alert ("Copyright (c) 2022 Aarav Mehta and PixelCodez Co. (Previously AMehtaCodes)")
-window.alert ("Only for Educational Purposes. Licenced under the MIT Licence.")
-
-
 class Calculator {
     constructor(previousOperandTextElement, currentOperandTextElement) {
       this.previousOperandTextElement = previousOperandTextElement
